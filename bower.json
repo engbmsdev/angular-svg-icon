@@ -1,0 +1,22 @@
+{
+  "name": "angular-svg-icon",
+  "homepage": "https://github.com/engbmsdev/angular-svg-icon",
+  "description": "angular svg icon by angular material",
+  "main": "material-components-icon.js",
+  "keywords": [
+    "angular",
+    "svg",
+    "icon"
+  ],
+  "authors": [
+    "Angular Material"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
